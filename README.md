@@ -21,5 +21,9 @@
 
 [Clique aqui baixar nosso Arquivo Tutorial](https://github.com/user-attachments/files/15680907/Tutorial.-.CORUJA.pdf)
 
+## Download Aplicatibo
 
+- Ao clicar no link abaixo você vai fazer o download do .apk do nosso aplicativo feito no AppInventor.
+
+#### [Clique aqui baixar nosso aplicativo](https://drive.google.com/file/d/1Mn9tFsAEthbgiCFK6uqYo1eL3UF6uh6g/view?usp=sharing) **Android***
 ---
