@@ -9,9 +9,9 @@
 
 ## Funcionalidades
 
-- *[1] - Botão de Seleção: Navegar entre as opções do jogo.
-- *[2] - Botão de Confirmação: Confirmar a opção selecionada.
-- *[3] - Ganhe Pontos: Acumule pontos a medida que acerta o quiz.
+- **[1]** - Botão de Seleção: Navegar entre as opções do jogo.
+- **[2]** - Botão de Confirmação: Confirmar a opção selecionada.
+- **[3]** - Ganhe Pontos: Acumule pontos a medida que acerta o quiz.
 
 
 ## Arquivo Tutorial
